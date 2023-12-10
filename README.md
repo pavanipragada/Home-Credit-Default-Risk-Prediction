@@ -6,7 +6,7 @@ Our primary goal is to extend loan services to individuals with limited or no cr
 # Solution 
 Our solution involves creating a robust classification predictive model designed to predict customers' risk of default accurately. This model will enable us to expand loan approvals to a broader customer base while strategically focusing on individuals with strong repayment capabilities.
 
-# My Contribution to the Project 
+# My Contributions
 I created a comprehensive table of contents, ensuring the project's organization and clarity. I handled categorical data by implementing label and one-hot encoding techniques and addressed missing values through imputation and feature engineering to create meaningful and relevant features for modeling. I applied data normalization and used the SMOTE technique to correct the imbalanced data. Implemented Logistic Regression and Random Forest Classifier models with hyperparameter tuning and contributed to group discussion on valuable model findings.Drafted business value of the model solution.
 
 # Business Value of the Solution
